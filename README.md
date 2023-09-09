@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming language 
 - 🌱 I’m currently learning ... Computer engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... My mobile number is 9328869698
+- 📫  My mobile number is 9328869698 and email id is kirtansantoki12@gmail.com
 
 <!---
 KirtanPatel8/KirtanPatel8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
